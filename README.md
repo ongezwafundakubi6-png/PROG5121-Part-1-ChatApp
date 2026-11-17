@@ -15,6 +15,7 @@ ChatApp Part 3
 PROJECT OVERVIEW
 Assessment: Part 1, Part 2 and Part 3
 This Java console application was created for the PROG5121 assignment. It allows users to register and log in, then create, send, store, disregard, and manage messages. Part 3 adds a stored-messages menu, message searches and reports, and persistent JSON storage.
+
 Features
 
 Validates usernames for an underscore and a maximum length of five characters
