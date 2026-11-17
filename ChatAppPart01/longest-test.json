@@ -1,0 +1,4 @@
+[
+{"messageID":"8888888888","messageHash":"88:0:HELLOHELLO","sender":"","recipient":"+27838884567","message":"Hello."},{"messageID":"9999999999","messageHash":"99:1:THISTEST","sender":"","recipient":"+27838884567","message":"This is the longest stored message in this test."},{"messageID":"8888888888","messageHash":"88:0:HELLOHELLO","sender":"","recipient":"+27838884567","message":"Hello."},
+{"messageID":"9999999999","messageHash":"99:1:THISTEST","sender":"","recipient":"+27838884567","message":"This is the longest stored message in this test."}
+]
